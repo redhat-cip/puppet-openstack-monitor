@@ -1,0 +1,4 @@
+fixtures:
+  repositories:
+  symlinks:
+    'cloud': '#{source_dir}'
